@@ -21,7 +21,7 @@ On my local computer, the final output is like this:
 
 
 
-The code is set to image recognition through web-cam. Change it following the instructions below to recognize images through video. A sample video of the Avengers and their images have been uploaded just to represent how the code would work. But it can be used for recognizing any person's face through web-cam or video once their images (3-5) have been added to the images folder. 
+The code is set to image recognition through web-cam. Change it following the instructions below to recognize images through video. A sample video of the Avengers and their images have been uploaded just to represent how the code would work. But it can be used for recognizing any person's face through web-cam or video once their images (3-5) have been added to the public/labeled_images directory.
 
 <b>Congratulations!</b> You are good to GO now.
 
